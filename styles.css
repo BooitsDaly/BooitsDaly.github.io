@@ -51,7 +51,7 @@ a {
     background-color: blue;
     display: inline-block;
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
 }
 
 #centerDiv {
@@ -84,7 +84,7 @@ a {
 }
 
 button {
-    color: violet;
+    color: blueviolet;
     background-color: transparent;
     font-size: 15px;
     font-family: 'Nunito', sans-serif;

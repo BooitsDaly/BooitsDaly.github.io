@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    color: #e3dbcb;
+    color: turquoise;
     font-family: "Nunito";
     text-align: center;
     font-weight: 400;
@@ -51,7 +51,7 @@ a {
     background-color: blue;
     display: inline-block;
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 #centerDiv {
@@ -84,7 +84,7 @@ a {
 }
 
 button {
-    color: floralwhite;
+    color: violet;
     background-color: transparent;
     font-size: 15px;
     font-family: 'Nunito', sans-serif;

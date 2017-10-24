@@ -150,7 +150,7 @@ function selected(dom) {
             //console.log(localStorage.getItem('lname'));
             //if localstorage or cookies put in the values
             if (window.localStorage) {
-                if (localStorage.getItem('lname').value !== "") {
+                if (localStorage.getItem('lname') !== null && localStorage.getItem('lname').value !== "" && localStorage.getItem('lname') !== undefined) {
                     //set values
                     createinputEmail.setAttribute("value", localStorage.getItem('fname'));
                     createinputFirst.setAttribute("value", localStorage.getItem('lname'));

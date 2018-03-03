@@ -1,0 +1,33 @@
+a, .linkColors{
+    color: #eeeeee !important;
+}
+h1, h2, h3, h4, h5, p{
+    color: #80cbc4 !important;
+}
+h6{
+    color: #eeeeee !important;
+}
+
+#me{
+
+}
+.fixme:not(.browser-default) {
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.fixme:not(.browser-default) li {
+    list-style-type: disc;
+}
+
+@media screen and (min-width: 800px) {
+    .showme{
+        transform: translateX(0%) !important;
+    }
+    .side-nav {
+
+    }
+}
+
+

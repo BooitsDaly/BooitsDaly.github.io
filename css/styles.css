@@ -8,8 +8,38 @@ h6{
     color: #eeeeee !important;
 }
 
+.aboutme{
+    height: 40vh !important;
+    padding-top: 3em;
+}
+blockquote{
+    border-left: 5px solid #c7bcea;
+    color: #bfc4c8;
+}
+body{
+    background-color: #1d152d;
+}
 #me{
-
+    width: 100%;
+    height: 67em;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hi{
+    top: 38%;
+}
+.hello{
+    top: 46%;
+}
+.click{
+    top: 50%;
+}
+.learn{
+    top: 55%;
 }
 .fixme:not(.browser-default) {
     padding-left: 30px;
@@ -21,13 +51,20 @@ h6{
     list-style-type: disc;
 }
 
-@media screen and (min-width: 800px) {
-    .showme{
-        transform: translateX(0%) !important;
+@media screen and (max-device-width: 800px){
+    .hi{
+        top: 8%;
     }
-    .side-nav {
-
+    .hello{
+        top: 18%;
+    }
+    .click{
+        top: 23%;
+    }
+    .learn{
+        top: 28%;
+    }
+    #me{
+        height: 38em !important;
     }
 }
-
-

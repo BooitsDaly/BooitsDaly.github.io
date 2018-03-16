@@ -24,46 +24,26 @@
     <!--<link rel="shortcut icon" href="favicon.png">-->
 </head>
 
-<body class="grey darken-3">
+<body>
 
 <!-- splash page goes here -->
-<div class="parallax-container">
-    <div class="parallax">
-        <img id="me" src="images/Daly_5.jpg"> <!-- random image -->
-    </div>
+<div class="front-image">
+
 </div>
 
 <!-- intro stuff -->
 <div class="intro center-align">
-    <h1 class="orange-text text-darken-4">Caitlyn Daly</h1>
-    <h4 class="orange-text text-darken-4"> Hello and Welcome</h4>
-    <p class="orange-text text-darken-4"> Click on the button below to learn more about me!</p>
-    <a class="waves-effect waves-light btn orange darken-4 learnMoreBtn" onclick="hideMe();">Learn More</a>
-
+    <img id="me" src="images/me.jpg">
+    <h1 class="deep-purple-text text-darken-3 centered hi">Hi, I'm Caitlyn</h1>
+    <h4 class="deep-purple-text text-darken-3 centered hello"> Hello and Welcome</h4>
+    <p class="deep-purple-text text-darken-3 centered click"> Click on the button below to learn more about me!</p>
+    <a class="waves-effect waves-light btn deep-purple darken-3 learnMoreBtn centered learn" onclick="hideMe();">Learn More</a>
 </div>
 
 
 <!-- Page Layout here -->
-<div class="container">
-    <div class="row">
 
-        <div class="col s12 m4 l3"> <!-- Note that "m4 l3" was added -->
-            <!-- This content will be:
-              3-columns-wide on large screens,
-              4-columns-wide on medium screens,
-              12-columns-wide on small screens  -->
-            <ul id="slide-out" class="side-nav purple darken-1">
-                <li><a href="#!">Caitlyn Daly</a></li>
-                <li><a class="waves-effect" href="#!"><i class="material-icons linkColors">person_outline</i>About Me</a></li>
-                <li><a class="waves-effect" href="#!"><i class="material-icons linkColors">assessment</i>Skills</a></li>
-                <li><a class="waves-effect" href="#!"><i class="material-icons linkColors">developer_mode</i>Experience</a></li>
-                <li><a class="waves-effect" href="#!"><i class="material-icons linkColors">developer_board</i>Projects</a></li>
-                <li><a class="waves-effect" href="#!"><i class="material-icons linkColors">directions_run</i>Extra Curricular</a></li>
-                <li><a class="waves-effect" href="#!"><i class="material-icons linkColors">brush</i>Design/Art Work</a></li>
-            </ul>
-            <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
 
-        </div>
 
         <div class="col s12 m8"> <!-- Note that "m8 l9" was added -->
 
@@ -73,19 +53,20 @@
               9-columns-wide on large screens,
               8-columns-wide on medium screens,
               12-columns-wide on small screens  -->
-            <div class="aboutme ">
-                <h4> Welcome </h4>
-                <h5>About Me</h5>
-                <p>Hi I’m Caitlyn. An aspiring Full Stack Engineer born and raised in Glendora, CA, now braving the winters at
-                    Rochester Institute of Technology. I believe that the world is changing more rapidly than ever through
-                    technology and innovation. As an ex-Electrical Engineer I was drawn to the web because of its ever changing,
-                    always evolving expanse of frameworks, libraries and languages that make developing a new adventure every time.
-                    Check out some of my projects!</p>
-                    <hr>
+            <div class="container">
+                <div class="aboutme ">
+                    <h3><a class="waves-effect " href="#!"><i class="material-icons linkColors" style="font-size: 36px;">person_outline</i>About Me</a></h3>
+                    <blockquote class="padding-right: 20%;" style="font-size: 24px;">Hi I’m Caitlyn. An aspiring Full Stack Engineer born and raised in Glendora, CA, now braving the winters at
+                        Rochester Institute of Technology. I believe that the world is changing more rapidly than ever through
+                        technology and innovation. As an ex-Electrical Engineer I was drawn to the web because of its ever changing,
+                        always evolving expanse of frameworks, libraries and languages that make developing a new adventure every time.
+                        Check out some of my projects!</blockquote>
+                </div>
             </div>
 
             <div class="skills ">
-                <h5>Skills</h5>
+                <img id="me" src="images/me.jpg">
+                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">assessment</i>Skills</a></h5>
                 <div class="row">
                     <div class="col s12 m6">
                         <div class="card-panel teal lighten-3">
@@ -116,7 +97,7 @@
             </div>
 
             <div class="work ">
-                <h5>Work Experience</h5>
+                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">developer_mode</i>Experience</a></h5>
                 <div class="row">
                     <div class="col s12 m12">
                         <div class="card-panel teal lighten-3">
@@ -162,7 +143,7 @@
             </div>
 
             <div class="projects ">
-                <h5>Projects</h5>
+                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">developer_board</i>Projects</a></h5>
                 <div class="row">
                     <div class="col s12 m12">
                         <div class="card-panel teal lighten-3">
@@ -230,7 +211,35 @@
             </div>
 
             <div class="activities">
-                <h5>Activities</h5>
+                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">directions_run</i>Extra Curricular</a></h5>
+                <div class="row">
+                    <div class="col s12 m6">
+                        <div class="card-panel teal lighten-3">
+                          <span class="">
+                                Co-founder of Gaia: 2017 – current<br>
+                                Varsity Soccer: Fall 2013 – Fall 2016<br>
+                                Dean’s List Spring 2017<br>
+                                Dean’s List Fall 2017<br>
+                          </span>
+                        </div>
+                    </div>
+                    <div class="col s12 m6">
+                        <div class="card-panel teal lighten-3">
+                          <span class="">
+                                Club Soccer: Fall 2017 <br>
+                                UX Club: Fall 2016 - 2018<br>
+                                WiC Hacks 2018<br>
+                                VentureWell E-Teams<br>
+                          </span>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+            </div>
+
+
+            <div class="design-work">
+                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">brush</i>Design/Art Work</a></h5>
                 <div class="row">
                     <div class="col s12 m6">
                         <div class="card-panel teal lighten-3">
@@ -257,9 +266,6 @@
             </div>
 
         </div>
-
-    </div>
-</div>
 
 </body>
 

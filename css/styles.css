@@ -51,7 +51,49 @@ body{
     list-style-type: disc;
 }
 
-@media screen and (max-device-width: 800px){
+@media screen and (max-width: 1440px){
+    .hi{
+        top: 8%;
+    }
+    .hello{
+        top: 18%;
+    }
+    .click{
+        top: 23%;
+    }
+    .learn{
+        top: 30%;
+    }
+    #me{
+        height: 49em !important;
+    }
+    .aboutme{
+        height: 60vh !important;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .hi{
+        top: 8%;
+    }
+    .hello{
+        top: 18%;
+    }
+    .click{
+        top: 23%;
+    }
+    .learn{
+        top: 30%;
+    }
+    #me{
+        height: 50em !important;
+    }
+    .aboutme{
+        height: 60vh !important;
+    }
+}
+
+@media screen and (max-device-width: 900px){
     .hi{
         top: 8%;
     }

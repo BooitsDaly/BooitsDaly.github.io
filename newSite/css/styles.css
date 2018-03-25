@@ -23,6 +23,23 @@ body{
     width: 100%;
     height: 67em;
 }
+
+#skills{
+    postion: relative;
+}
+.skill-icons{
+    position: block;
+    height: 10em;
+    width: 10em;
+    margin-left: 3em;
+}
+.skill-icon-div{
+    position: absolute;
+}
+.html-css-js{
+    width: 35em;
+    height: 15em;
+}
 /* Centered text */
 .centered {
     position: absolute;

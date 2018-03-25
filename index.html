@@ -3,302 +3,126 @@
 <head>
     <!-- Global Site Tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107567880-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments)};
+      gtag('js', new Date());
+
+      gtag('config', 'UA-107567880-1');
+    </script>
+
 	<title>Caitlyn Daly</title>
 	<meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    
-    <!-- Compiled and minified CSS 
-    materialize includes css-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
-    <!-- Compiled and minified JavaScript 
-    materialize include js-->
-    <!--Import jQuery before materialize.js-->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
     <script type="text/javascript" src="script.js"></script>
-    
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
 
     <!--<link rel="shortcut icon" href="favicon.png">-->
 </head>
 
 <body>
 
-<!-- splash page goes here -->
-<div class="front-image">
-
-</div>
-
-<!-- intro stuff -->
-<div class="intro center-align">
-    <img id="me" src="images/me.jpg">
-    <h1 class="deep-purple-text text-darken-3 centered hi">Hi, I'm Caitlyn</h1>
-    <h4 class="deep-purple-text text-darken-3 centered hello"> Hello and Welcome</h4>
-    <p class="deep-purple-text text-darken-3 centered click"> Click on the button below to learn more about me!</p>
-    <a class="waves-effect waves-light btn deep-purple darken-3 learnMoreBtn centered learn" onclick="hideMe();">Learn More</a>
-</div>
-
-
-<!-- Page Layout here -->
-
-
-
-        <div class="col s12 m8"> <!-- Note that "m8 l9" was added -->
-
-            <!-- Teal page content
-
-                  This content will be:
-              9-columns-wide on large screens,
-              8-columns-wide on medium screens,
-              12-columns-wide on small screens  -->
-            <div class="container">
-                <div class="aboutme ">
-                    <h3><a class="waves-effect " href="#!"><i class="material-icons linkColors" style="font-size: 36px;">person_outline</i>About Me</a></h3>
-                    <blockquote class="padding-right: 20%;" style="font-size: 24px;">Hi I’m Caitlyn. An aspiring Full Stack Engineer born and raised in Glendora, CA, now braving the winters at
-                        Rochester Institute of Technology. I believe that the world is changing more rapidly than ever through
-                        technology and innovation.I was drawn to the web because of its ever changing,
-                        always evolving expanse of frameworks, libraries and languages that make developing a new adventure every time.
-                        Check out some of my projects!</blockquote>
-                </div>
-            </div>
-
-            <div class="skills ">
-                <img id="me" src="images/header-back-2.jpg">
-                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">assessment</i>Skills</a></h5>
-                <div class="container">
-                    <img id="skill-icons" src="images/html.png" alt="html">
-
-                    <!--<div class="col s12 m6">-->
-                        <!--<div class="card-panel teal lighten-3">-->
-                          <!--<span class="">-->
-                              <!--Javascript - 7/10<br>-->
-                              <!--React Native - 3/10<br>-->
-                              <!--Photoshop - 6/10<br>-->
-                              <!--Illustrator - 5/10<br>-->
-                              <!--CSS - 8/10<br>-->
-                              <!--HTML - 9/10<br>-->
-                              <!--JQuery - 6/10<br>-->
-                              <!--Drupal 7 & 8- 5/10<br>-->
-                          <!--</span>-->
-                        <!--</div>-->
-                    <!--</div>-->
-                    <!--<div class="col s12 m6">-->
-                        <!--<div class="card-panel teal lighten-3">-->
-                          <!--<span class="">-->
-                              <!--Java - 7/10 <br>-->
-                              <!--PHP - 5 / 10<br>-->
-                              <!--C# - 6/10<br>-->
-                              <!--MySQL - 5/10<br>-->
-                          <!--</span>-->
-                        <!--</div>-->
-                    <!--</div>-->
-                <!--</div>-->
-            </div>
-
-            <div class="work ">
-                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">developer_mode</i>Experience</a></h5>
-                <div class="row">
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                                <h6>Rochester Institute of Technology | Web Developer | August 2017 - Current</h6>
-                                <ul class="fixme">
-                                    <li class="fixme">Improved the look and feel of RIT’s mac deployment software using HTML and CSS.</li>
-                                    <li class="fixme">Added features to RIT’s mac fleet deployment management software using PHP, Javascript, and JQuery.</li>
-                                    <li class="fixme">Assisted with the Design and Development of college and department sites across campus</li>
-                                    <li class="fixme">Expanded the utility of the RIT maps application for special events </li>
-                                    <li class="fixme">Worked on updating the web environment from Drupal 7 to Drupal 8</li>
-                                    <li class="fixme">Help with the update of Drupal modules on the environment</li>
-                                    <li class="fixme">Help in the implementation of Headless Drupal integration into the web environment</li>
-                                </ul>
-
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                                Rochester Institute of Technology | Senior Communications Technician | May 2015 - July 2017
-                                <ul class="fixme">
-                                    <li class="fixme">I held a leadership position helping analyze technological processes to identify areas of re-work, loss of productivity, and wastes of time.</li>
-                                </ul>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                                Synaptics | Jr Systems Engineer | February 2014 - August 2014
-                                <ul class="fixme">
-                                    <li class="fixme">Testing and configuring a new color analyzer to help incorporate into automation testing.</li>
-                                    <li class="fixme">Help streamline automation testing using python. </li>
-                                    <li class="fixme">Testing and documenting the newest silicon chips at a system level.</li>
-                                </ul>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-                <hr>
-            </div>
-
-            <div class="projects ">
-                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">developer_board</i>Projects</a></h5>
-                <div class="row">
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                               Gaia | Co-Founder, Head Front-End Developer | May 2017 - Current<br>
-                                Gaia (Game Adaptive Innovative Apparel) gaia offers an affordable smart apparel technology that empowers individuals with autism to become more independent members of society.
-                                <ul class="fixme">
-                                    <li class="fixme">Spearhead making decisions with Software development and implementation. </li>
-                                    <li class="fixme">Help the UX/UI team with designing and implementing a fully realized and complete application on both Android and iOS. </li>
-                                    <li class="fixme">Work on designing and implementing an algorithm to detect when an autism patient is having an attack. </li>
-                                    <li class="fixme">Assist with customer discovery and marketing</li>
-                                </ul>
-
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                                RIT maps | Web Developer | <a href="https://maps.rit.edu/">https://maps.rit.edu/</a><br>
-                                RIT maps is an innovative mapping system for the RIT community. This interactive map was built and designed
-                                around the Mapbox API and uses an enterprise data management system to populate data elements. RIT maps is a
-                                continual work in progress where the goal is to allow easy use by the entire RIT community through the years.
-                                <ul class="fixme">
-                                    <li class="fixme">Worked on updating the map from using Google Maps API to Mapbox API</li>
-                                    <li class="fixme">Assisted with making map responsive on all devices and browsers</li>
-                                    <li class="fixme">Developed new features for the RIT community</li>
-                                    <li class="fixme">Created a seasonal version of RIT maps for Imagine RIT which allows students and families to create an itinerary and find each</li>
-                                </ul>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                                Capstone Tracker | Web Developer / Designer | Fall 2017 <br>
-                                Capstone Tracker is an online web application that allows students, faculty, and staff to keep track of milestones,
-                                deadlines, and other important information related to a capstone project. This project was written in PHP, MySQL,
-                                Javascript, Jquery, HTML, and CSS, using the Materialize framework.
-                                <ul class="fixme">
-                                    <li class="fixme">Spearheaded development related to the front-end</li>
-                                    <li class="fixme">Developed wireframes and photoshop mock-ups for the visual layer</li>
-                                    <li class="fixme">Created all of the pages relating to a staff view, including a data, business, and visual layer</li>
-                                    <li class="fixme">Assisted with the design and development of the MySQL database</li>
-                                </ul>
-                            </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m12">
-                        <div class="card-panel teal lighten-3">
-                            <span>
-                                RIT Title IX | Web Developer | <a href="https://www.rit.edu/fa/compliance/content/title-ix">https://www.rit.edu/fa/compliance/content/title-ix</a><br>
-                                RIT’s compliance office, adhering to federal guidelines outlines proper resources, guidelines,
-                                reporting tools, and training related to Title IX.
-                                <ul class="fixme">
-                                    <li class="fixme">Assisted with placing content into the correct blocks</li>
-                                    <li class="fixme">Assisted with implementing the look and feel of the pages</li>
-                                    <li class="fixme">Assisted with making the content responsive on all devices</li>
-                                </ul>
-                            </span>
-                        </div>
-                    </div>
-                </div>
-                <hr>
-            </div>
-
-            <div class="activities">
-                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">directions_run</i>Extra Curricular</a></h5>
-                <div class="row">
-                    <div class="col s12 m6">
-                        <div class="card-panel teal lighten-3">
-                          <span class="">
-                                Co-founder of Gaia: 2017 – current<br>
-                                Varsity Soccer: Fall 2013 – Fall 2016<br>
-                                Dean’s List Spring 2017<br>
-                                Dean’s List Fall 2017<br>
-                          </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m6">
-                        <div class="card-panel teal lighten-3">
-                          <span class="">
-                                Club Soccer: Fall 2017 <br>
-                                UX Club: Fall 2016 - 2018<br>
-                                WiC Hacks 2018<br>
-                                VentureWell E-Teams<br>
-                          </span>
-                        </div>
-                    </div>
-                </div>
-                <hr>
-            </div>
-
-
-            <div class="design-work">
-                <h5><a class="waves-effect" href="#!"><i class="material-icons linkColors">brush</i>Design/Art Work</a></h5>
-                <div class="row">
-                    <div class="col s12 m6">
-                        <div class="card-panel teal lighten-3">
-                          <span class="">
-                                Co-founder of Gaia: 2017 – current<br>
-                                Varsity Soccer: Fall 2013 – Fall 2016<br>
-                                Dean’s List Spring 2017<br>
-                                Dean’s List Fall 2017<br>
-                          </span>
-                        </div>
-                    </div>
-                    <div class="col s12 m6">
-                        <div class="card-panel teal lighten-3">
-                          <span class="">
-                                Club Soccer: Fall 2017 <br>
-                                UX Club: Fall 2016 - 2018<br>
-                                WiC Hacks 2018<br>
-                                VentureWell E-Teams<br>
-                          </span>
-                        </div>
-                    </div>
-                </div>
-                <hr>
-            </div>
-
+   <div id="backpic">
+    <div id = "overlay">
+        <div id="centerDiv">
+            <img id="profilePic" src="Profilepic.jpg" />
         </div>
+        <h1 id="name">Caitlyn Daly</h1>
+        <hr>
+        <h1 id="description">Programmer | Athlete | Designer | Gamer </h1>
+        <hr id="mainSeperator">
+
+    <!--<div id = "dubdublink">
+        <h3><a href = "wwdc.html">WWDC 17 Scholarship Blog</a></h3>
+    </div>
+    -->
+
+    <div id="buttonDiv">
+        <button onclick="showAbout()" id="aboutButton">About</button>
+        <button onclick="showPortfolio()" id="portfolioButton">Portfolio</button>
+        <button onclick="showContact()" id="contactButton">Contact</button>
+        <button onclick="window.open('resume2017.pdf');" id="resumeButton">Resume</button>
+    </div>
+
+
+    <div id="aboutDIV">
+        <hr class="sectionSeperator">
+        <h1 id="tagLine" class="aboutHeading">I'm an ex-soccer player starting a bright new life as a full stack developer,<br> studying at Rochester Institute of Technology.</h1>
+        <div id = "infoDiv">
+            <ul id="skillsList">
+                <h1 class="listTitle">Skills</h1>
+                <hr class="shortLine">
+                <li>Java</li>
+                <li>Python</li>
+                <li>PHP</li>
+                <li> C# </li>
+                <li> React Native </li>
+                <li>HTML/CSS/JS</li>
+                <li>Photoshop / Illustrator</li>
+            </ul>
+
+            <ul id="linksList">
+                <h1 class="listTitle">Connect with me</h1>
+                <hr class="shortLine">
+                <li><a href="http://github.com/BooitsDaly">GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/caitlyn-daly-5253a4a9/">LinkedIn</a></li>
+                <li><a href = "https://twitter.com/BooitsDaly">Twitter</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="portfolioDIV">
+        <hr class="sectionSeperator">
+        <h1 class="aboutHeading">Some of my experience</h1>
+        <div id="projectsDiv">
+
+        <h1 class="projectHeader">Gaia LLC. (Co-founder)</h1>
+        <p class="projectDesc">June 2017 - Now</p>
+        <p class="projectDesc"> Gaia is a start up company that is devoted to helping others through wearable technology. Started by an ex-RIT student, Gaia creates technology that helps athletes train to stay fit, and also helps autism patients as well as thier families.
+        </p>
+        <p class="projectDesc">My Responsibilities with Gaia include:
+        <br>Designing  and implementing an algorithm  to detect when an autism patient is having an attack.
+        <br>Assisting the UX/UI team with designing and implementing a fully realized and complete application on both Android and iOS.
+        <br>Assist in making desisions with Software development and implentation.
+        </p>
+
+        <br>
+        <br>
+
+        <h1 class="projectHeader">Synaptics</h1>
+        <p class="projectDesc">Febuary 2014 - August 2014 (Jr. Systems Engineer)</p>
+        <p class="projectDesc"> Synaptics revolutionized the human interface, which is emerging in virtually every segment of today's fast-changing technology landscape. Having set the standard for how people interact with their computers, communications devices and consumer electronics, we design our innovative, award-winning products specifically to enhance the user experience.
+        </p>
+        <p class="projectDesc">My Responsibilities with Synaptics included:
+        <br>Testing and configuring a new color analyzer to help incorperate into automation testing.
+        <br>Help streamline automation testing using python.
+        <br>Testing and documenting the newest sillicon chips at a system level.
+        </p>
+
+        <br>
+        <br>
+
+        <h1 class="projectHeader">Endpoint Engineering @ RIT (Web Developer)</h1>
+        <p class="projectDesc"> RIT ITS is services is the first point of contact for technology needs on campus.
+        </p>
+        <p class="projectDesc">My Responsibilities with ITS include:
+        <br>Implementing new features on RIT's metrics system that handles and oversees the MAC fleet on campus.
+        <br>Redesign Managed Software center
+        </p>
+        </div>
+    </div>
+
+    <div id="contactDIV">
+        <hr class="sectionSeperator">
+        <h1 class="aboutHeading">Email: <a  href="mailto:cnd9351@rit.edu">cnd9351@rit.edu</a></h1>
+    </div>
+
+    </div>
+
+   </div>
+
 
 </body>
-
-<script>
-    //TODO: move all of this to a script file
-    //for the side navigation
-    $(".button-collapse").sideNav();
-    //for the slider
-    $(document).ready(function(){
-        $('.slider').slider();
-    });
-    //learnMoreBtn
-    function hideMe(){
-        $(".slider").addClass("hide");
-        $(".side-nav").addClass("showme");
-    }
-    //paralax stuff
-    $(document).ready(function(){
-        $('.parallax').parallax();
-    });
-
-    //scrollfire stuff
-    var options = [
-        {selector: '.class', offset: 200, callback: customCallbackFunc },
-        {selector: '.other-class', offset: 200, callback: function() {
-                customCallbackFunc();
-            } },
-    ];
-
-
-
-
-</script>
 
 </html>

@@ -1,70 +1,27 @@
-.fadeout {
-  visibility: visible;
-  opacity: 1;
-  transition: opacity 2s linear;
-}
-
-.rotated-image {
-          transform: rotate(180deg);
-}
-
-.rotated-image2 {
-          transform: rotate(180deg);
-}
-div{
-    width: 50%;
-    border: solid;
-    border-radius: 5px;
-    border-color: darkturquoise;
-    background-color: lightgray;
-    margin-top: 1em;
-    margin-left: auto;
-    margin-right:auto;
-    text-align: center;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: 1em;
-    padding-top:  1em;
-}
-#picDiv{
-    border: none;
-    width: none;
-}
-h1{
-    text-align: center;
-    color: aliceblue;
-}
-
-img{
-    text-align: left;
-    width: 100%;
-    transform-origin:50% 50%;
-    animation:2s rotateRight linear; 
-
-}
-@keyframes rotateRight{
-    100%{ transform:rotate(360deg); }
-}
-form{
-    margin-left: auto;
-    margin-right:auto;
-    width: 50%;
-    border: solid;
-    border-radius: 5px;
-    border-color: darkturquoise;
-    background-color: lightgray;
-    margin-top: 1em;
-    text-align: center;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: 1em;
-    padding-top:  1em;
-    
-}
-input{
-    margin-top: 1em;
-}
 body{
-    background-image: url("../images/stars.jpg");
-    background-position: center;
+    background-color: #E2CFEA;
+}
+.me{
+    width: 30% !important;
+    margin-top: 5%;
+}
+h1, h4, a{
+    color: #102B3F !important;
+}
+.fixme:not(.browser-default) {
+    padding-left: 30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.fixme:not(.browser-default) li {
+    list-style-type: disc;
+}
+blockquote{
+    border-left: 5px solid #6247AA !important;
+}
+
+.card-style{
+    color: #E2CFEA;
+    background-color: #102B3F;
 }

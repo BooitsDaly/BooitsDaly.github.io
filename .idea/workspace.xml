@@ -1,55 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bccea817-b83d-47ae-af03-c0c44c99f1d7" name="Default" comment="old site back up to finish new site">
-      <change beforePath="" afterPath="$PROJECT_DIR$/starwars-site/assets/styles.css" />
+    <list default="true" id="bccea817-b83d-47ae-af03-c0c44c99f1d7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/27574817_425290931261048_4982925549631438848_n.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/css.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/facebook.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/github.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/instagram.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/js.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/mail.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/website.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/me.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Profilepic.jpg" afterPath="$PROJECT_DIR$/assets/Profilepic.jpg" />
-      <change beforePath="$PROJECT_DIR$/Workspace.jpg" afterPath="$PROJECT_DIR$/assets/Workspace.jpg" />
-      <change beforePath="$PROJECT_DIR$/assets/data.js" afterPath="$PROJECT_DIR$/starwars-site/assets/data.js" />
-      <change beforePath="$PROJECT_DIR$/assets/script.js" afterPath="$PROJECT_DIR$/starwars-site/assets/script.js" />
-      <change beforePath="$PROJECT_DIR$/assets/styles.css" afterPath="$PROJECT_DIR$/assets/styles.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/newSite/css/materialize.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/css/materialize.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/css/styles.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Bold.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Light.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Light.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Medium.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Thin.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/1_Caitlyn.jpg" afterPath="$PROJECT_DIR$/assets/images/1_Caitlyn.jpg" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/AA8F7620.jpg" afterPath="$PROJECT_DIR$/assets/images/AA8F7620.jpg" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/Daly_5.jpg" afterPath="$PROJECT_DIR$/assets/images/Daly_5.jpg" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/ai.png" afterPath="$PROJECT_DIR$/assets/images/ai.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/c.jpeg" afterPath="$PROJECT_DIR$/assets/images/c.jpeg" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/drupal.png" afterPath="$PROJECT_DIR$/assets/images/drupal.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/header-back-2.jpg" afterPath="$PROJECT_DIR$/assets/images/header-back-2.jpg" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/html.png" afterPath="$PROJECT_DIR$/assets/images/html.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/icon.png" afterPath="$PROJECT_DIR$/assets/images/icon.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/java.ico" afterPath="$PROJECT_DIR$/assets/images/java.ico" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/java.png" afterPath="$PROJECT_DIR$/assets/images/java.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/jquery.html" afterPath="$PROJECT_DIR$/assets/images/jquery.html" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/jquery.png" afterPath="$PROJECT_DIR$/assets/images/jquery.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/me.jpg" afterPath="$PROJECT_DIR$/assets/images/me.jpg" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/mysql.png" afterPath="$PROJECT_DIR$/assets/images/mysql.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/php.png" afterPath="$PROJECT_DIR$/assets/images/php.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/poster_final.png" afterPath="$PROJECT_DIR$/assets/images/poster_final.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/ps.png" afterPath="$PROJECT_DIR$/assets/images/ps.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/images/reactNative.png" afterPath="$PROJECT_DIR$/assets/images/reactNative.png" />
-      <change beforePath="$PROJECT_DIR$/newSite/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/js/materialize.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/newSite/js/materialize.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/resume2017.docx" afterPath="$PROJECT_DIR$/assets/resume2017.docx" />
-      <change beforePath="$PROJECT_DIR$/resume2017.pdf" afterPath="$PROJECT_DIR$/assets/resume2017.pdf" />
-      <change beforePath="$PROJECT_DIR$/script.js" afterPath="$PROJECT_DIR$/assets/script.js" />
-      <change beforePath="$PROJECT_DIR$/starwars.html" afterPath="$PROJECT_DIR$/starwars-site/starwars.html" />
-      <change beforePath="$PROJECT_DIR$/styles.css" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -109,10 +71,17 @@
     <commandsHistory>
       <command text="git status" />
       <command text="git add ./" />
+      <command text="git status" />
+      <command text="git add ." />
+      <command text="git status" />
+      <command text="git commit ." />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -222,7 +191,7 @@
       <workItem from="1521750229746" duration="50000" />
       <workItem from="1522000705887" duration="1009000" />
       <workItem from="1523648049433" duration="180000" />
-      <workItem from="1524589440660" duration="10068000" />
+      <workItem from="1524589440660" duration="10298000" />
     </task>
     <task id="LOCAL-00001" summary="welcome section and about me section fixed">
       <created>1521159460926</created>
@@ -259,26 +228,33 @@
       <option name="project" value="LOCAL" />
       <updated>1522001427822</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init new redone site">
+      <created>1524665696414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524665696416</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49683000" />
+    <option name="totallyTimeSpent" value="49913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08941345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08941345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -286,7 +262,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913166" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -302,7 +277,8 @@
     <MESSAGE value="image upload" />
     <MESSAGE value="image upload&#10;media query added for macbook air" />
     <MESSAGE value="old site back up to finish new site" />
-    <option name="LAST_COMMIT_MESSAGE" value="old site back up to finish new site" />
+    <MESSAGE value="init new redone site" />
+    <option name="LAST_COMMIT_MESSAGE" value="init new redone site" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

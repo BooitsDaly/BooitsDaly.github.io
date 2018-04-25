@@ -25,3 +25,6 @@ blockquote{
     color: #E2CFEA;
     background-color: #102B3F;
 }
+span a{
+    color: white !important;
+}

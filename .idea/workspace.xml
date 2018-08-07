@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="124" column="131" selection-start-line="124" selection-start-column="131" selection-end-line="124" selection-end-column="131" />
+            <state relative-caret-position="240">
+              <caret line="176" column="113" selection-start-line="176" selection-start-column="113" selection-end-line="176" selection-end-column="113" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#2;n#blockquote#0;n#div#1;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -89,7 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +100,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,7 +153,8 @@
       <workItem from="1524589440660" duration="10757000" />
       <workItem from="1525092890844" duration="333000" />
       <workItem from="1525716737288" duration="551000" />
-      <workItem from="1531234250354" duration="791000" />
+      <workItem from="1531234250354" duration="1287000" />
+      <workItem from="1533653961812" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="welcome section and about me section fixed">
       <created>1521159460926</created>
@@ -218,11 +219,25 @@
       <option name="project" value="LOCAL" />
       <updated>1525093184813</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bio update">
+      <created>1531235978008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1531235978008</updated>
+    </task>
+    <task id="LOCAL-00011" summary="content update">
+      <created>1531319095388</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1531319095388</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52047000" />
+    <option name="totallyTimeSpent" value="52582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="215" y="23" width="1225" height="877" extended-state="0" />
@@ -232,12 +247,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -265,7 +280,9 @@
     <MESSAGE value="init new redone site add images" />
     <MESSAGE value="link colors changed to be visible" />
     <MESSAGE value="bio fix and website link removal" />
-    <option name="LAST_COMMIT_MESSAGE" value="bio fix and website link removal" />
+    <MESSAGE value="bio update" />
+    <MESSAGE value="content update" />
+    <option name="LAST_COMMIT_MESSAGE" value="content update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/newSite/index.html" />
@@ -408,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="124" column="131" selection-start-line="124" selection-start-column="131" selection-end-line="124" selection-end-column="131" />
+        <state relative-caret-position="240">
+          <caret line="176" column="113" selection-start-line="176" selection-start-column="113" selection-end-line="176" selection-end-column="113" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#2;n#blockquote#0;n#div#1;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
